@@ -1,0 +1,28 @@
+{
+  "name": "mnist-image-classification-js",
+  "version": "0.4.2",
+  "description": "Comparative Study of JavaScript and Python for Image Classification using TensorFlow",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "AI",
+    "TensorFlow",
+    "TensorFlow.js",
+    "Image Classification",
+    "MNIST Dataset",
+    "Convolutional Neural Networks",
+    "Performance Comparison",
+    "Developer Experience",
+    "Machine Learning"
+  ],
+  "author": "Brian Shannon - x23215712@student.ncirl.ie",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node-gpu": "^4.20.0"
+  }
+}
